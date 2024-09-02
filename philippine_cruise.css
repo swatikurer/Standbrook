@@ -1,0 +1,67 @@
+.container{
+    top: 233px;
+left: 0px;
+width: 1920px;
+height: 904px;
+background: transparent url('images/Rectangle\ ship.png') 0% 0% no-repeat padding-box;
+opacity: 0.6;
+}
+/* .container {
+    max-width: 1200px;
+    margin: 0 auto; 
+    padding: 20px; 
+    /* display: flex; Add display: flex to the container 
+    justify-content: center; /* Center content horizontally 
+    align-items: center; /* Center content vertically 
+  } */
+  header {
+    background-color: #f0f0f0;
+    padding: 20px 0;
+    border-bottom: 1px solid #ddd;
+    display: flex; /* Add display: flex to the header */
+    justify-content: space-between; /* Space out logo and nav */
+    align-items: center; /* Center items vertically */
+  }
+
+.logo {
+    width: 152px;
+    height: 134px;
+    background: transparent url('images/Group 13.jpg') 0% 0% no-repeat padding-box;
+    background-size: cover; /* Ensure the logo image fits its container */
+    margin: 0 auto; /* Center the logo */
+}
+nav {
+    margin-top: 20px; /* Add space between logo and nav */
+}
+nav ul {
+    display: inline-block; /* Ensure list items are horizontally aligned */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline; /* Align list items horizontally */
+    margin: 0 10px; /* Space between items */
+    font: normal normal normal 20px/28px Vollkorn;
+    color: #585858;
+}
+
+nav ul li:hover {
+    color: #000; /* Optional: Change color on hover */
+}
+.full-page{
+    top: 0px;
+left: 0px;
+width: 1920px;
+height: 7094px;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
